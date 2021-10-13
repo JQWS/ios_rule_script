@@ -1,7 +1,7 @@
 # NAME: ChinaIPs
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-11 02:07:10
+# UPDATED: 2021-11-01 02:08:55
 # IP-CIDR: 6123
 # TOTAL: 6123
 payload:
@@ -484,6 +484,7 @@ payload:
   - IP-CIDR,103.146.88.0/22,no-resolve
   - IP-CIDR,103.147.12.0/23,no-resolve
   - IP-CIDR,103.147.124.0/23,no-resolve
+  - IP-CIDR,103.147.16.0/24,no-resolve
   - IP-CIDR,103.147.198.0/23,no-resolve
   - IP-CIDR,103.147.206.0/23,no-resolve
   - IP-CIDR,103.147.211.0/24,no-resolve
@@ -1263,6 +1264,7 @@ payload:
   - IP-CIDR,103.28.204.0/22,no-resolve
   - IP-CIDR,103.28.212.0/22,no-resolve
   - IP-CIDR,103.28.4.0/22,no-resolve
+  - IP-CIDR,103.28.54.0/24,no-resolve
   - IP-CIDR,103.28.8.0/22,no-resolve
   - IP-CIDR,103.29.128.0/21,no-resolve
   - IP-CIDR,103.29.136.0/22,no-resolve
@@ -1384,7 +1386,7 @@ payload:
   - IP-CIDR,103.40.88.0/22,no-resolve
   - IP-CIDR,103.40.96.0/22,no-resolve
   - IP-CIDR,103.41.0.0/22,no-resolve
-  - IP-CIDR,103.41.112.0/22,no-resolve
+  - IP-CIDR,103.41.112.0/21,no-resolve
   - IP-CIDR,103.41.129.0/24,no-resolve
   - IP-CIDR,103.41.131.0/24,no-resolve
   - IP-CIDR,103.41.136.0/21,no-resolve
@@ -2993,7 +2995,6 @@ payload:
   - IP-CIDR,150.242.112.0/21,no-resolve
   - IP-CIDR,150.242.120.0/22,no-resolve
   - IP-CIDR,150.242.152.0/22,no-resolve
-  - IP-CIDR,150.242.156.0/23,no-resolve
   - IP-CIDR,150.242.158.0/24,no-resolve
   - IP-CIDR,150.242.160.0/21,no-resolve
   - IP-CIDR,150.242.168.0/22,no-resolve
@@ -3339,11 +3340,9 @@ payload:
   - IP-CIDR,193.20.64.0/22,no-resolve
   - IP-CIDR,193.200.196.0/24,no-resolve
   - IP-CIDR,193.200.222.160/28,no-resolve
-  - IP-CIDR,194.0.0.0/24,no-resolve
   - IP-CIDR,194.138.136.0/24,no-resolve
   - IP-CIDR,194.138.202.0/23,no-resolve
   - IP-CIDR,194.138.245.0/24,no-resolve
-  - IP-CIDR,194.246.96.0/24,no-resolve
   - IP-CIDR,195.142.215.0/24,no-resolve
   - IP-CIDR,197.199.0.0/18,no-resolve
   - IP-CIDR,197.210.163.0/24,no-resolve
@@ -5459,6 +5458,7 @@ payload:
   - IP-CIDR,43.228.148.0/22,no-resolve
   - IP-CIDR,43.228.152.0/22,no-resolve
   - IP-CIDR,43.228.188.0/22,no-resolve
+  - IP-CIDR,43.228.204.0/22,no-resolve
   - IP-CIDR,43.228.64.0/21,no-resolve
   - IP-CIDR,43.228.76.0/22,no-resolve
   - IP-CIDR,43.229.136.0/21,no-resolve
