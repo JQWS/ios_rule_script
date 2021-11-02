@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-02 09:12:53
-# DOMAIN: 14582
+# UPDATED: 2021-11-03 02:09:15
+# DOMAIN: 14584
 # DOMAIN-KEYWORD: 87
-# DOMAIN-SUFFIX: 86003
+# DOMAIN-SUFFIX: 86010
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 100929
+# TOTAL: 100938
 payload:
   - '0001.2waky.com'
   - '000lk3v.wcomhost.com'
@@ -324,6 +324,7 @@ payload:
   - '77search.com'
   - '79.news-subscribe.com'
   - '7979.nosubid.blueseek.com'
+  - '799f3607457e.com'
   - '7consultinggroup.com'
   - '7kzwj.kangshouhuanbao.com'
   - '7makemoneyonline.com'
@@ -1256,6 +1257,7 @@ payload:
   - 'allezlelosc.com'
   - 'allforlove.de'
   - 'allforyouonline.com'
+  - 'allfreehack.com'
   - 'allfreesoftware.org'
   - 'allgamesdownload.org'
   - 'allgengamingservers.com'
@@ -1480,7 +1482,6 @@ payload:
   - 'apawestflorida.com'
   - 'apeelingstudios.com'
   - 'aperionetwork.com'
-  - 'apex-mne.com'
   - 'apex.wecleanoklahoma.com'
   - 'apfelzwerg.com'
   - 'aphrofem.com'
@@ -2501,7 +2502,6 @@ payload:
   - 'bt.news-subscribe.com'
   - 'bt4.rutracker.cc'
   - 'btbulgaria.com'
-  - 'btovopyov.com'
   - 'btprmnav.com'
   - 'btwosfunny.onthenetas.com'
   - 'bubbaparis.com'
@@ -3566,7 +3566,6 @@ payload:
   - 'covenantoffire.com'
   - 'covert-case.com'
   - 'covingtonvending.com'
-  - 'cozumdanismanlik.net'
   - 'cp.liveclicker.net'
   - 'cpa.adthink.com'
   - 'cpabuild.com'
@@ -6197,7 +6196,6 @@ payload:
   - 'gulhanhukuk.com'
   - 'gumuscorap.com'
   - 'gumuskumyapi.com'
-  - 'gun.vrfitnesscoach.com'
   - 'gundamfactory.com'
   - 'gundersons.com'
   - 'guowaidiaocha.com'
@@ -7969,6 +7967,7 @@ payload:
   - 'liputan6.comxa.com'
   - 'liron-lib.com'
   - 'lisinoprilpto.com'
+  - 'lita-lighting.com'
   - 'liteautogreatest.cn'
   - 'liteautotop.cn'
   - 'litebackup.com'
@@ -8431,6 +8430,7 @@ payload:
   - 'media.columbiarecords.com'
   - 'media.icubeswire.com'
   - 'media.inq.com'
+  - 'media.joinupads.com'
   - 'media.mykocam.com'
   - 'media.popunder.com'
   - 'media.sailthru.com'
@@ -9200,6 +9200,7 @@ payload:
   - 'news-speaker.com'
   - 'news-whistleout.s3.amazonaws.com'
   - 'news.nero-emea.com'
+  - 'news.nero-us.com'
   - 'news.sla.org'
   - 'news.smi2.net'
   - 'news.vuukle.com'
@@ -10320,6 +10321,7 @@ payload:
   - 'psvitaromsgames.com'
   - 'psychotherapiehaarlem.com'
   - 'ptads.sv.publicus.com'
+  - 'ptllantas.com'
   - 'ptmontessori.com'
   - 'ptpscollege.org'
   - 'pub.axiatraders.com'
@@ -11255,7 +11257,6 @@ payload:
   - 'services.wigzopush.com'
   - 'serviceswellness.com'
   - 'servicioclientepant8.com'
-  - 'serviciosguru.com'
   - 'serviowa.sytes.net'
   - 'sesilgavignon.com'
   - 'sessionbutter.cn.com'
@@ -13386,6 +13387,7 @@ payload:
   - 'vendosupport.com'
   - 'ventergy.com'
   - 'venudre.000webhostapp.com'
+  - 'vephaohoadanang.net'
   - 'veraisonwineevents.com'
   - 'vergileme.com'
   - 'verified-download.com'
@@ -13935,6 +13937,7 @@ payload:
   - 'wuplead.com'
   - 'wushirongye.com'
   - 'wuxigangguan.net'
+  - 'wuxililong.com'
   - 'wvw.a81444.com'
   - 'ww.baike113.com'
   - 'ww1.tongji123.com'
@@ -14176,7 +14179,6 @@ payload:
   - 'xbox360emulator.net'
   - 'xboxboss.com'
   - 'xboxcodegenerator.com'
-  - 'xboxcodesnow.com'
   - 'xboxgold.extafiles.com'
   - 'xboxjailbreak.com'
   - 'xboxlab.com'
@@ -31070,6 +31072,7 @@ payload:
   - '+.captainad.com'
   - '+.captainbicycle.com'
   - '+.captcha-smart.top'
+  - '+.captchasmart.top'
   - '+.captify.co.uk'
   - '+.captifymedia.com'
   - '+.captivate.ai'
@@ -42774,6 +42777,7 @@ payload:
   - '+.exomonyf.com'
   - '+.exoner.com'
   - '+.exoprsdds.com'
+  - '+.exorigos.com'
   - '+.exoticads.com'
   - '+.exoticsendurance.com'
   - '+.exovueplatform.com'
@@ -49118,6 +49122,7 @@ payload:
   - '+.hibernateagitationpre.com'
   - '+.hibids10.com'
   - '+.hibiki-track.logica.bz'
+  - '+.hibikitrack.logica.bz'
   - '+.hiblcom.com'
   - '+.hibymura.com'
   - '+.hickunwilling.com'
@@ -49970,6 +49975,7 @@ payload:
   - '+.hq33333.com'
   - '+.hq3x.com'
   - '+.hqae.cn'
+  - '+.hqcqz2.cn'
   - '+.hqfilms.ws'
   - '+.hqgjcm.com'
   - '+.hqjuww.kolesa-darom.ru'
@@ -53512,6 +53518,7 @@ payload:
   - '+.jiahewine.cn'
   - '+.jiaheyonggu.com'
   - '+.jiahuan.cn'
+  - '+.jiajiann.cn'
   - '+.jiajv.net'
   - '+.jialiren.net'
   - '+.jializyw.com'
@@ -55614,6 +55621,7 @@ payload:
   - '+.kuk8.com'
   - '+.kuku99.com'
   - '+.kukucs.info'
+  - '+.kukulm.com'
   - '+.kukury2hf8nd09.com'
   - '+.kulkaridoopi.com'
   - '+.kulkerbolda.com'
@@ -63584,6 +63592,7 @@ payload:
   - '+.moijs.com'
   - '+.moistblank.com'
   - '+.mojigaga.com'
+  - '+.mojing.xyz'
   - '+.mojiva.com'
   - '+.mojn.com'
   - '+.mojoaffiliates.com'

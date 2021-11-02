@@ -1,13 +1,13 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-02 09:12:53
-# DOMAIN: 14582
+# UPDATED: 2021-11-03 02:09:16
+# DOMAIN: 14584
 # DOMAIN-KEYWORD: 87
-# DOMAIN-SUFFIX: 86003
+# DOMAIN-SUFFIX: 86010
 # IP-CIDR: 256
 # IP-CIDR6: 1
-# TOTAL: 100929
+# TOTAL: 100938
 payload:
   - DOMAIN,0001.2waky.com
   - DOMAIN,000lk3v.wcomhost.com
@@ -324,6 +324,7 @@ payload:
   - DOMAIN,77search.com
   - DOMAIN,79.news-subscribe.com
   - DOMAIN,7979.nosubid.blueseek.com
+  - DOMAIN,799f3607457e.com
   - DOMAIN,7consultinggroup.com
   - DOMAIN,7kzwj.kangshouhuanbao.com
   - DOMAIN,7makemoneyonline.com
@@ -1256,6 +1257,7 @@ payload:
   - DOMAIN,allezlelosc.com
   - DOMAIN,allforlove.de
   - DOMAIN,allforyouonline.com
+  - DOMAIN,allfreehack.com
   - DOMAIN,allfreesoftware.org
   - DOMAIN,allgamesdownload.org
   - DOMAIN,allgengamingservers.com
@@ -1480,7 +1482,6 @@ payload:
   - DOMAIN,apawestflorida.com
   - DOMAIN,apeelingstudios.com
   - DOMAIN,aperionetwork.com
-  - DOMAIN,apex-mne.com
   - DOMAIN,apex.wecleanoklahoma.com
   - DOMAIN,apfelzwerg.com
   - DOMAIN,aphrofem.com
@@ -2501,7 +2502,6 @@ payload:
   - DOMAIN,bt.news-subscribe.com
   - DOMAIN,bt4.rutracker.cc
   - DOMAIN,btbulgaria.com
-  - DOMAIN,btovopyov.com
   - DOMAIN,btprmnav.com
   - DOMAIN,btwosfunny.onthenetas.com
   - DOMAIN,bubbaparis.com
@@ -3566,7 +3566,6 @@ payload:
   - DOMAIN,covenantoffire.com
   - DOMAIN,covert-case.com
   - DOMAIN,covingtonvending.com
-  - DOMAIN,cozumdanismanlik.net
   - DOMAIN,cp.liveclicker.net
   - DOMAIN,cpa.adthink.com
   - DOMAIN,cpabuild.com
@@ -6197,7 +6196,6 @@ payload:
   - DOMAIN,gulhanhukuk.com
   - DOMAIN,gumuscorap.com
   - DOMAIN,gumuskumyapi.com
-  - DOMAIN,gun.vrfitnesscoach.com
   - DOMAIN,gundamfactory.com
   - DOMAIN,gundersons.com
   - DOMAIN,guowaidiaocha.com
@@ -7969,6 +7967,7 @@ payload:
   - DOMAIN,liputan6.comxa.com
   - DOMAIN,liron-lib.com
   - DOMAIN,lisinoprilpto.com
+  - DOMAIN,lita-lighting.com
   - DOMAIN,liteautogreatest.cn
   - DOMAIN,liteautotop.cn
   - DOMAIN,litebackup.com
@@ -8431,6 +8430,7 @@ payload:
   - DOMAIN,media.columbiarecords.com
   - DOMAIN,media.icubeswire.com
   - DOMAIN,media.inq.com
+  - DOMAIN,media.joinupads.com
   - DOMAIN,media.mykocam.com
   - DOMAIN,media.popunder.com
   - DOMAIN,media.sailthru.com
@@ -9200,6 +9200,7 @@ payload:
   - DOMAIN,news-speaker.com
   - DOMAIN,news-whistleout.s3.amazonaws.com
   - DOMAIN,news.nero-emea.com
+  - DOMAIN,news.nero-us.com
   - DOMAIN,news.sla.org
   - DOMAIN,news.smi2.net
   - DOMAIN,news.vuukle.com
@@ -10320,6 +10321,7 @@ payload:
   - DOMAIN,psvitaromsgames.com
   - DOMAIN,psychotherapiehaarlem.com
   - DOMAIN,ptads.sv.publicus.com
+  - DOMAIN,ptllantas.com
   - DOMAIN,ptmontessori.com
   - DOMAIN,ptpscollege.org
   - DOMAIN,pub.axiatraders.com
@@ -11255,7 +11257,6 @@ payload:
   - DOMAIN,services.wigzopush.com
   - DOMAIN,serviceswellness.com
   - DOMAIN,servicioclientepant8.com
-  - DOMAIN,serviciosguru.com
   - DOMAIN,serviowa.sytes.net
   - DOMAIN,sesilgavignon.com
   - DOMAIN,sessionbutter.cn.com
@@ -13386,6 +13387,7 @@ payload:
   - DOMAIN,vendosupport.com
   - DOMAIN,ventergy.com
   - DOMAIN,venudre.000webhostapp.com
+  - DOMAIN,vephaohoadanang.net
   - DOMAIN,veraisonwineevents.com
   - DOMAIN,vergileme.com
   - DOMAIN,verified-download.com
@@ -13935,6 +13937,7 @@ payload:
   - DOMAIN,wuplead.com
   - DOMAIN,wushirongye.com
   - DOMAIN,wuxigangguan.net
+  - DOMAIN,wuxililong.com
   - DOMAIN,wvw.a81444.com
   - DOMAIN,ww.baike113.com
   - DOMAIN,ww1.tongji123.com
@@ -14176,7 +14179,6 @@ payload:
   - DOMAIN,xbox360emulator.net
   - DOMAIN,xboxboss.com
   - DOMAIN,xboxcodegenerator.com
-  - DOMAIN,xboxcodesnow.com
   - DOMAIN,xboxgold.extafiles.com
   - DOMAIN,xboxjailbreak.com
   - DOMAIN,xboxlab.com
@@ -31070,6 +31072,7 @@ payload:
   - DOMAIN-SUFFIX,captainad.com
   - DOMAIN-SUFFIX,captainbicycle.com
   - DOMAIN-SUFFIX,captcha-smart.top
+  - DOMAIN-SUFFIX,captchasmart.top
   - DOMAIN-SUFFIX,captify.co.uk
   - DOMAIN-SUFFIX,captifymedia.com
   - DOMAIN-SUFFIX,captivate.ai
@@ -42774,6 +42777,7 @@ payload:
   - DOMAIN-SUFFIX,exomonyf.com
   - DOMAIN-SUFFIX,exoner.com
   - DOMAIN-SUFFIX,exoprsdds.com
+  - DOMAIN-SUFFIX,exorigos.com
   - DOMAIN-SUFFIX,exoticads.com
   - DOMAIN-SUFFIX,exoticsendurance.com
   - DOMAIN-SUFFIX,exovueplatform.com
@@ -49118,6 +49122,7 @@ payload:
   - DOMAIN-SUFFIX,hibernateagitationpre.com
   - DOMAIN-SUFFIX,hibids10.com
   - DOMAIN-SUFFIX,hibiki-track.logica.bz
+  - DOMAIN-SUFFIX,hibikitrack.logica.bz
   - DOMAIN-SUFFIX,hiblcom.com
   - DOMAIN-SUFFIX,hibymura.com
   - DOMAIN-SUFFIX,hickunwilling.com
@@ -49970,6 +49975,7 @@ payload:
   - DOMAIN-SUFFIX,hq33333.com
   - DOMAIN-SUFFIX,hq3x.com
   - DOMAIN-SUFFIX,hqae.cn
+  - DOMAIN-SUFFIX,hqcqz2.cn
   - DOMAIN-SUFFIX,hqfilms.ws
   - DOMAIN-SUFFIX,hqgjcm.com
   - DOMAIN-SUFFIX,hqjuww.kolesa-darom.ru
@@ -53512,6 +53518,7 @@ payload:
   - DOMAIN-SUFFIX,jiahewine.cn
   - DOMAIN-SUFFIX,jiaheyonggu.com
   - DOMAIN-SUFFIX,jiahuan.cn
+  - DOMAIN-SUFFIX,jiajiann.cn
   - DOMAIN-SUFFIX,jiajv.net
   - DOMAIN-SUFFIX,jialiren.net
   - DOMAIN-SUFFIX,jializyw.com
@@ -55614,6 +55621,7 @@ payload:
   - DOMAIN-SUFFIX,kuk8.com
   - DOMAIN-SUFFIX,kuku99.com
   - DOMAIN-SUFFIX,kukucs.info
+  - DOMAIN-SUFFIX,kukulm.com
   - DOMAIN-SUFFIX,kukury2hf8nd09.com
   - DOMAIN-SUFFIX,kulkaridoopi.com
   - DOMAIN-SUFFIX,kulkerbolda.com
@@ -63584,6 +63592,7 @@ payload:
   - DOMAIN-SUFFIX,moijs.com
   - DOMAIN-SUFFIX,moistblank.com
   - DOMAIN-SUFFIX,mojigaga.com
+  - DOMAIN-SUFFIX,mojing.xyz
   - DOMAIN-SUFFIX,mojiva.com
   - DOMAIN-SUFFIX,mojn.com
   - DOMAIN-SUFFIX,mojoaffiliates.com

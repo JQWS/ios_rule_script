@@ -1,15 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-02 09:12:52
+# UPDATED: 2021-11-03 02:09:14
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 14582
+# DOMAIN: 14584
 # DOMAIN-KEYWORD: 87
-# DOMAIN-SUFFIX: 86003
+# DOMAIN-SUFFIX: 86010
 # IP-CIDR: 256
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 101230
+# TOTAL: 101239
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -325,6 +325,7 @@
 77search.com
 79.news-subscribe.com
 7979.nosubid.blueseek.com
+799f3607457e.com
 7consultinggroup.com
 7kzwj.kangshouhuanbao.com
 7makemoneyonline.com
@@ -1257,6 +1258,7 @@ allextreme.com
 allezlelosc.com
 allforlove.de
 allforyouonline.com
+allfreehack.com
 allfreesoftware.org
 allgamesdownload.org
 allgengamingservers.com
@@ -1481,7 +1483,6 @@ apartment-mall.cn
 apawestflorida.com
 apeelingstudios.com
 aperionetwork.com
-apex-mne.com
 apex.wecleanoklahoma.com
 apfelzwerg.com
 aphrofem.com
@@ -2502,7 +2503,6 @@ bsmgroupbd.com
 bt.news-subscribe.com
 bt4.rutracker.cc
 btbulgaria.com
-btovopyov.com
 btprmnav.com
 btwosfunny.onthenetas.com
 bubbaparis.com
@@ -3567,7 +3567,6 @@ covenantalpacifist.com
 covenantoffire.com
 covert-case.com
 covingtonvending.com
-cozumdanismanlik.net
 cp.liveclicker.net
 cpa.adthink.com
 cpabuild.com
@@ -6198,7 +6197,6 @@ gulfpros.net
 gulhanhukuk.com
 gumuscorap.com
 gumuskumyapi.com
-gun.vrfitnesscoach.com
 gundamfactory.com
 gundersons.com
 guowaidiaocha.com
@@ -7970,6 +7968,7 @@ lionsdrive.com
 liputan6.comxa.com
 liron-lib.com
 lisinoprilpto.com
+lita-lighting.com
 liteautogreatest.cn
 liteautotop.cn
 litebackup.com
@@ -8432,6 +8431,7 @@ media.ads.gfsrv.net
 media.columbiarecords.com
 media.icubeswire.com
 media.inq.com
+media.joinupads.com
 media.mykocam.com
 media.popunder.com
 media.sailthru.com
@@ -9201,6 +9201,7 @@ news-paperz.com
 news-speaker.com
 news-whistleout.s3.amazonaws.com
 news.nero-emea.com
+news.nero-us.com
 news.sla.org
 news.smi2.net
 news.vuukle.com
@@ -10321,6 +10322,7 @@ psvitafreegames.com
 psvitaromsgames.com
 psychotherapiehaarlem.com
 ptads.sv.publicus.com
+ptllantas.com
 ptmontessori.com
 ptpscollege.org
 pub.axiatraders.com
@@ -11256,7 +11258,6 @@ services.ludokingapi.com
 services.wigzopush.com
 serviceswellness.com
 servicioclientepant8.com
-serviciosguru.com
 serviowa.sytes.net
 sesilgavignon.com
 sessionbutter.cn.com
@@ -13387,6 +13388,7 @@ vendorweb.citibank.com
 vendosupport.com
 ventergy.com
 venudre.000webhostapp.com
+vephaohoadanang.net
 veraisonwineevents.com
 vergileme.com
 verified-download.com
@@ -13936,6 +13938,7 @@ wuhuyuhua.com
 wuplead.com
 wushirongye.com
 wuxigangguan.net
+wuxililong.com
 wvw.a81444.com
 ww.baike113.com
 ww1.tongji123.com
@@ -14177,7 +14180,6 @@ xbox360emulator.com
 xbox360emulator.net
 xboxboss.com
 xboxcodegenerator.com
-xboxcodesnow.com
 xboxgold.extafiles.com
 xboxjailbreak.com
 xboxlab.com
@@ -31071,6 +31073,7 @@ zzz.clickbank.net
 .captainad.com
 .captainbicycle.com
 .captcha-smart.top
+.captchasmart.top
 .captify.co.uk
 .captifymedia.com
 .captivate.ai
@@ -42775,6 +42778,7 @@ zzz.clickbank.net
 .exomonyf.com
 .exoner.com
 .exoprsdds.com
+.exorigos.com
 .exoticads.com
 .exoticsendurance.com
 .exovueplatform.com
@@ -49119,6 +49123,7 @@ zzz.clickbank.net
 .hibernateagitationpre.com
 .hibids10.com
 .hibiki-track.logica.bz
+.hibikitrack.logica.bz
 .hiblcom.com
 .hibymura.com
 .hickunwilling.com
@@ -49971,6 +49976,7 @@ zzz.clickbank.net
 .hq33333.com
 .hq3x.com
 .hqae.cn
+.hqcqz2.cn
 .hqfilms.ws
 .hqgjcm.com
 .hqjuww.kolesa-darom.ru
@@ -53513,6 +53519,7 @@ zzz.clickbank.net
 .jiahewine.cn
 .jiaheyonggu.com
 .jiahuan.cn
+.jiajiann.cn
 .jiajv.net
 .jialiren.net
 .jializyw.com
@@ -55615,6 +55622,7 @@ zzz.clickbank.net
 .kuk8.com
 .kuku99.com
 .kukucs.info
+.kukulm.com
 .kukury2hf8nd09.com
 .kulkaridoopi.com
 .kulkerbolda.com
@@ -63585,6 +63593,7 @@ zzz.clickbank.net
 .moijs.com
 .moistblank.com
 .mojigaga.com
+.mojing.xyz
 .mojiva.com
 .mojn.com
 .mojoaffiliates.com

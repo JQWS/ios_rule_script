@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-10-30 02:10:23
+# UPDATED: 2021-11-03 02:09:14
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 34198
+# DOMAIN-SUFFIX: 34200
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34348
+# TOTAL: 34350
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -33909,6 +33909,7 @@ widgets.stripst.com
 .yzcbet.com
 .yzys.tv
 .yzzk.com
+.z-lib.org
 .z.com
 .z2r7921695617528q7n48n6805r7594oqp11o0718.tf
 .z3641.com
@@ -34101,6 +34102,7 @@ widgets.stripst.com
 .zkgsxf.com
 .zkiz.com
 .zl66.me
+.zlib.org
 .zm
 .zmw.cn
 .zndsk.com
