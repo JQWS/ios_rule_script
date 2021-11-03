@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-03 02:09:13
+# UPDATED: 2021-11-04 02:09:18
 # DOMAIN: 19
-# DOMAIN-SUFFIX: 34200
+# DOMAIN-SUFFIX: 34202
 # USER-AGENT: 11
 # DOMAIN-KEYWORD: 29
 # IP-CIDR: 88
 # IP-CIDR6: 3
-# TOTAL: 34350
+# TOTAL: 34352
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -7828,6 +7828,7 @@ widgets.stripst.com
 .cloudfire.com
 .cloudflare-dns.com
 .cloudflare-ipfs.com
+.cloudflare-quic.com
 .cloudflare.com
 .cloudflare.net
 .cloudflareapps.com
@@ -7837,6 +7838,7 @@ widgets.stripst.com
 .cloudflareinsights.com
 .cloudflareipfs.com
 .cloudflareok.com
+.cloudflarequic.com
 .cloudflareresolve.com
 .cloudflaressl.com
 .cloudflarestatus.com

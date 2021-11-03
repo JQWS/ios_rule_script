@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-03 02:09:13
+# UPDATED: 2021-11-04 02:09:18
 # HOST: 19
-# HOST-SUFFIX: 34200
+# HOST-SUFFIX: 34202
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 34350
+# TOTAL: 34352
 HOST,api-p.videomarket.jp,Proxy
 HOST,apip.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -7828,6 +7828,7 @@ HOST-SUFFIX,cloudfare.com,Proxy
 HOST-SUFFIX,cloudfire.com,Proxy
 HOST-SUFFIX,cloudflare-dns.com,Proxy
 HOST-SUFFIX,cloudflare-ipfs.com,Proxy
+HOST-SUFFIX,cloudflare-quic.com,Proxy
 HOST-SUFFIX,cloudflare.com,Proxy
 HOST-SUFFIX,cloudflare.net,Proxy
 HOST-SUFFIX,cloudflareapps.com,Proxy
@@ -7837,6 +7838,7 @@ HOST-SUFFIX,cloudflaredns.com,Proxy
 HOST-SUFFIX,cloudflareinsights.com,Proxy
 HOST-SUFFIX,cloudflareipfs.com,Proxy
 HOST-SUFFIX,cloudflareok.com,Proxy
+HOST-SUFFIX,cloudflarequic.com,Proxy
 HOST-SUFFIX,cloudflareresolve.com,Proxy
 HOST-SUFFIX,cloudflaressl.com,Proxy
 HOST-SUFFIX,cloudflarestatus.com,Proxy
