@@ -1,16 +1,16 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-04 02:09:19
+# UPDATED: 2021-11-05 02:09:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 33952
+# DOMAIN: 20
+# DOMAIN-SUFFIX: 33963
 # USER-AGENT: 48
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # URL-REGEX: 1
-# TOTAL: 34194
+# TOTAL: 34206
 api-p.videomarket.jp
 apip.videomarket.jp
 blizzard.nefficient.co.kr
@@ -20,6 +20,7 @@ clubhouse.pubnubapi.com
 deutschewelle.h-cdn.com
 deutschewelle.hcdn.com
 elib.maruzen.co.jp
+faronics.kayako.com
 g.cn
 hpstore.corpmerchandise.com
 i.jeded.com
@@ -7291,6 +7292,7 @@ widgets.stripst.com
 .chartis
 .chase
 .chase.com
+.chatango.com
 .chaterbate.com
 .chatnook.com
 .chatr
@@ -8872,6 +8874,9 @@ widgets.stripst.com
 .deepcoin.vip
 .deepdiscount.com
 .deeper.com
+.deepfreeze.com
+.deepfreeze.net
+.deepfreeze.tech
 .deepl.com
 .deepmind.com
 .deepthroatfrenzy.com
@@ -11011,6 +11016,10 @@ widgets.stripst.com
 .farm.tanosecure.com.tw
 .farmatotal.cl
 .farmers
+.faronics.com
+.faronics.tech
+.faronicslabs.com
+.faronicswise.com
 .farsipod101.com
 .fartit.com
 .farumradio.com
@@ -14989,6 +14998,7 @@ widgets.stripst.com
 .internet.org
 .internetarchive.org
 .internetdefenseleague.org
+.internetdownloadmanager.com
 .internetexplorer.co
 .internetexplorer.com
 .internetfreedom.org
@@ -22182,6 +22192,7 @@ widgets.stripst.com
 .regiongold.com
 .register.moex.gov.tw
 .registerhulu.com
+.registeridm.com
 .rehabforum.org
 .reimu.net
 .reindeervpn.com
@@ -25465,6 +25476,7 @@ widgets.stripst.com
 .tomp2p.net
 .tomshardware.com
 .tonalla.com
+.tonec.com
 .tongil.or.kr
 .tonni.cms4people.de
 .tono-oka.jp

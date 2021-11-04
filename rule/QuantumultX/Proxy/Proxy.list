@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-04 02:09:18
-# HOST: 19
-# HOST-SUFFIX: 34202
+# UPDATED: 2021-11-05 02:09:01
+# HOST: 20
+# HOST-SUFFIX: 34213
 # USER-AGENT: 11
 # HOST-KEYWORD: 29
 # IP-CIDR: 88
 # IP6-CIDR: 3
-# TOTAL: 34352
+# TOTAL: 34364
 HOST,api-p.videomarket.jp,Proxy
 HOST,apip.videomarket.jp,Proxy
 HOST,blizzard.nefficient.co.kr,Proxy
@@ -17,6 +17,7 @@ HOST,cisco.evergage.com,Proxy
 HOST,deutschewelle.h-cdn.com,Proxy
 HOST,deutschewelle.hcdn.com,Proxy
 HOST,elib.maruzen.co.jp,Proxy
+HOST,faronics.kayako.com,Proxy
 HOST,g.cn,Proxy
 HOST,hpstore.corpmerchandise.com,Proxy
 HOST,i.jeded.com,Proxy
@@ -7341,6 +7342,7 @@ HOST-SUFFIX,charticulator.com,Proxy
 HOST-SUFFIX,chartis,Proxy
 HOST-SUFFIX,chase,Proxy
 HOST-SUFFIX,chase.com,Proxy
+HOST-SUFFIX,chatango.com,Proxy
 HOST-SUFFIX,chaterbate.com,Proxy
 HOST-SUFFIX,chatnook.com,Proxy
 HOST-SUFFIX,chatr,Proxy
@@ -8924,6 +8926,9 @@ HOST-SUFFIX,deconversion.org,Proxy
 HOST-SUFFIX,dedelu.com,Proxy
 HOST-SUFFIX,deepcoin.vip,Proxy
 HOST-SUFFIX,deeper.com,Proxy
+HOST-SUFFIX,deepfreeze.com,Proxy
+HOST-SUFFIX,deepfreeze.net,Proxy
+HOST-SUFFIX,deepfreeze.tech,Proxy
 HOST-SUFFIX,deepl.com,Proxy
 HOST-SUFFIX,deepmind.com,Proxy
 HOST-SUFFIX,deepthroatfrenzy.com,Proxy
@@ -11063,6 +11068,10 @@ HOST-SUFFIX,farfetchcontents.com,Proxy
 HOST-SUFFIX,farm.tanosecure.com.tw,Proxy
 HOST-SUFFIX,farmatotal.cl,Proxy
 HOST-SUFFIX,farmers,Proxy
+HOST-SUFFIX,faronics.com,Proxy
+HOST-SUFFIX,faronics.tech,Proxy
+HOST-SUFFIX,faronicslabs.com,Proxy
+HOST-SUFFIX,faronicswise.com,Proxy
 HOST-SUFFIX,farsipod101.com,Proxy
 HOST-SUFFIX,fartit.com,Proxy
 HOST-SUFFIX,farumradio.com,Proxy
@@ -15050,6 +15059,7 @@ HOST-SUFFIX,internepedia.tk,Proxy
 HOST-SUFFIX,internet.org,Proxy
 HOST-SUFFIX,internetarchive.org,Proxy
 HOST-SUFFIX,internetdefenseleague.org,Proxy
+HOST-SUFFIX,internetdownloadmanager.com,Proxy
 HOST-SUFFIX,internetexplorer.co,Proxy
 HOST-SUFFIX,internetexplorer.com,Proxy
 HOST-SUFFIX,internetfreedom.org,Proxy
@@ -22363,6 +22373,7 @@ HOST-SUFFIX,regionalwifi.net,Proxy
 HOST-SUFFIX,regiongold.com,Proxy
 HOST-SUFFIX,register.moex.gov.tw,Proxy
 HOST-SUFFIX,registerhulu.com,Proxy
+HOST-SUFFIX,registeridm.com,Proxy
 HOST-SUFFIX,rehabforum.org,Proxy
 HOST-SUFFIX,reimu.net,Proxy
 HOST-SUFFIX,reindeervpn.com,Proxy
@@ -25655,6 +25666,7 @@ HOST-SUFFIX,tomorrowland.com,Proxy
 HOST-SUFFIX,tomp2p.net,Proxy
 HOST-SUFFIX,tomshardware.com,Proxy
 HOST-SUFFIX,tonalla.com,Proxy
+HOST-SUFFIX,tonec.com,Proxy
 HOST-SUFFIX,tongil.or.kr,Proxy
 HOST-SUFFIX,tonni.cms4people.de,Proxy
 HOST-SUFFIX,tono-oka.jp,Proxy

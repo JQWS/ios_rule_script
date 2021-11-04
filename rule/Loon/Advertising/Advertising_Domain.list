@@ -1,15 +1,15 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-04 02:09:19
+# UPDATED: 2021-11-05 02:09:02
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，请搭配MITM使用
-# DOMAIN: 15129
+# DOMAIN: 15134
 # DOMAIN-KEYWORD: 87
-# DOMAIN-SUFFIX: 75384
+# DOMAIN-SUFFIX: 75423
 # IP-CIDR: 256
 # IP-CIDR6: 1
 # URL-REGEX: 301
-# TOTAL: 91158
+# TOTAL: 91202
 0001.2waky.com
 000lk3v.wcomhost.com
 000lkub.rcomhost.com
@@ -893,7 +893,6 @@ ads.indexinfo.org
 ads.indiaresults.com
 ads.infomediainc.com
 ads.ireel.com
-ads.isat-tech.com
 ads.jo-games.com
 ads.joemonster.org
 ads.ka6tata.com
@@ -2117,7 +2116,6 @@ banners.webcams.com
 banners.weboverdrive.com
 bannersnack.net
 bannersxchange.com
-bannieres.acces-contenu.com
 bantam.ai.net
 baolina-kitra.com
 bapatconsultants.com
@@ -2130,6 +2128,7 @@ barissagliklisesi.com
 barker-homes.com
 barkodcenter.net
 barmitzvahswag.com
+barrainformativa.com
 barrybcrow.000webhostapp.com
 baseindia.org
 baseofhacks.com
@@ -2520,6 +2519,7 @@ book4hacktools.com
 bookbugg.com
 bookhacks.com
 bookkeeperbaltimore.com
+bookmyproject.net
 bookzula.com
 boombeachhack.epickeys.com
 boombeachhack.org
@@ -2928,6 +2928,7 @@ casefileng.com
 cash-advance.now-cash.com
 cashbackworld.com
 cashbuzz.org
+cashcownetworks.com
 cashfile.org
 cashmerelands.com
 cashworld.biz
@@ -3379,6 +3380,7 @@ click.clktraker.com
 click.dealshark.com
 click.dji.com
 click.gospect.com
+click.hay3s.com
 click.howdoesin.net
 click.inplayable.com
 click.kidslivesafe.com
@@ -3828,7 +3830,6 @@ csgofastrade.com
 csgofine.com
 csgofortunes.com
 csgogivers.com
-csgohall.com
 csgolden.com
 csgoldluck.com
 csgoluckywheel.com
@@ -4932,7 +4933,6 @@ etgdta.com
 ethaddress.neocities.org
 ethanslayton.com
 ether-wallet.net
-ether4free.com
 etherdelta-glthub.com
 etherdetla.com
 etheream.com
@@ -5112,6 +5112,7 @@ facebook.login-apps.com
 facebook0067.webnode.com
 facebook1749.webnode.com
 facebook22.com
+facebookaccounthack.com
 facebookfansigned.comlu.com
 facebookgamecheat.org
 facebookicon.net
@@ -6858,7 +6859,6 @@ hotelcenterlake.com
 hotelesestelar.com
 hotelmahalindia.com
 hotelpadmalaxmi.com
-hotelslutonairportltn.com
 hotelsunndaram.com
 hoteltechinternational.com
 hotfacesitting.com
@@ -7337,6 +7337,7 @@ internetsecurity.com
 interplaydesign.com
 interracial-anal1.com
 interracialpussy.com
+intersportv.com
 intervista.youdao.com
 inthevip-sex.com
 intidayads.com
@@ -7547,7 +7548,6 @@ jdtracker.com
 jdyunfeng.com
 jeansowghsqq.com
 jeansowghtqq.com
-jeansvixens.com
 jeckethemarbut.net
 jeff-trexler.com
 jeff.timeclever.com
@@ -8726,6 +8726,7 @@ media-verizon-dev.inq.com
 media-verizon.inq.com
 media-vip.com
 media.ads.gfsrv.net
+media.cashcownetworks.com
 media.columbiarecords.com
 media.complex.com
 media.espace-plus.net
@@ -8980,6 +8981,7 @@ misegundocuadro.com
 miser.000webhostapp.com
 misionpsicologica.com
 misoftservices.com
+missartstudio.com
 misscrack.com
 misshal.com
 missionoch.org
@@ -9288,6 +9290,7 @@ mycamdenliving.com
 mycasinoonnet.com
 mycasinoyellowhead.com
 mychocolatepod.com
+mycleanerpc.com
 mycleanpc.com
 mycoastalcab.com
 mycoinwallet.net
@@ -11209,6 +11212,7 @@ ripitee.com
 risehack.com
 risingindianews.com
 rivasearchpage.com
+rizfilm.com
 rjtcrxzd.com
 rkadint.com
 rkkdlaw.com
@@ -11717,6 +11721,7 @@ services.ludokingapi.com
 services.wigzopush.com
 serviceswellness.com
 servicioclientepant8.com
+serviciosguru.com
 serviowa.sytes.net
 sesilgavignon.com
 sessionbutter.cn.com
@@ -13391,6 +13396,7 @@ transmercasa.com
 transprintshop.com
 transvaluers.com
 traphouselatino.net
+travastownsend.com
 travbae.com
 travekocity.com
 travel274.com
@@ -14344,7 +14350,6 @@ wingsofthesky.com
 winmediaplayer.com
 winrar-soft.ru
 winscholarship.com
-wipeoutsystems.net
 wirausahaundip.com
 wisebanc.com
 wiseguysbarandgrill.net
@@ -15062,7 +15067,6 @@ zhangzhian.net
 zhenzhongmuye.com
 zhgg.dre8.com
 zhidao.greateasy.cn
-zhidao.njcasio.com
 zhidao.shenyangxg.com
 zhidao.xinhuacybz.com
 zhidao.yxad.com
@@ -15081,6 +15085,7 @@ zipitfast.com
 zippedonlinedoc.com
 zippydownloads.com
 zipshift.com
+zixunxiu.com
 zjfq4lnfbs7pncr5.tor2web.org
 zjgswtl.com
 zjhuashi.net
@@ -15280,6 +15285,7 @@ zzz.clickbank.net
 .07634.com
 .0769liancheng.cn
 .076lvi.xyz
+.076lvz.xyz
 .07780778.com
 .0792gdst.com
 .0796gou.com
@@ -16669,6 +16675,7 @@ zzz.clickbank.net
 .4th3d48.com
 .4tnui5r06j62.com
 .4u.pl
+.4wa24bq.cn
 .4wad.com
 .4wens.org
 .4wnet.com
@@ -18651,6 +18658,7 @@ zzz.clickbank.net
 .aboutads.gr
 .aboutharrypotter.fasthost.tv
 .abovede6.com
+.aboveredirect.top
 .aboybvnm.com
 .abreastpollutionsticking.com
 .abridgeinputcontraceptive.com
@@ -19753,6 +19761,7 @@ zzz.clickbank.net
 .adbreak.net
 .adbrite.com
 .adbrix.com
+.adbrix.io
 .adbrn.com
 .adbro.me
 .adbroker.de
@@ -20110,6 +20119,7 @@ zzz.clickbank.net
 .adfusion.com
 .adfuture.cn
 .adg.bzgint.com
+.adg.kajicam.com
 .adg99.com
 .adgage.es
 .adgainersolutions.com
@@ -20117,6 +20127,7 @@ zzz.clickbank.net
 .adgardener.com
 .adgatemedia.com
 .adgbn.com
+.adgdata.kajicam.com
 .adgear.com
 .adgebra.co.in
 .adgebra.in
@@ -24611,10 +24622,12 @@ zzz.clickbank.net
 .api.push.le.com
 .api.rees46.com
 .api.reon.club
+.api.reproio.com
 .api.rubic.com.tr
 .api.safedk.com
 .api.sdk.fmobi.cn
 .api.shuaji.360.cn
+.api.smbeat.jp
 .api.splkmobile.com
 .api.ssp.adoceans.com
 .api.starsmp.com
@@ -25944,6 +25957,7 @@ zzz.clickbank.net
 .ayswrotesre.club
 .ayues.com
 .ayun.ltd
+.aywgucxmh.com
 .ayyubidgconv.casa
 .az.5.p2l.info
 .az361816.vo.msecnd.net
@@ -26162,6 +26176,7 @@ zzz.clickbank.net
 .b92.yahoo.co.jp
 .b936c5932623f.com
 .b9377h.com
+.b94.yahoo.co.jp
 .b94ea798af.ac2e81c7b8.com
 .b96bcea4.cc
 .b97.yahoo.co.jp
@@ -28350,6 +28365,7 @@ zzz.clickbank.net
 .bogads.com
 .bogglecool.club
 .bogopo.biz
+.bogrex.com
 .bogrodius.com
 .bogscarcely.com
 .boguetrust.com
@@ -29596,6 +29612,7 @@ zzz.clickbank.net
 .c6.friok.com
 .c61ec7314ee.com
 .c63d72a4022.com
+.c6890.cn
 .c6z85.cn
 .c704655a9050bdcc.com
 .c74df06d52c9da686f17.com
@@ -30134,6 +30151,7 @@ zzz.clickbank.net
 .cca1e94d3b3.com
 .ccaas.avaya.com
 .ccalgf.com
+.ccapidata.adobe.io
 .ccas.clearchannel.com
 .ccb.myzen.co.uk
 .ccb.uncle-ad.com
@@ -33482,6 +33500,7 @@ zzz.clickbank.net
 .coxmt.com
 .coyalecap.club
 .coysotown.com
+.cozibaneco.com
 .cozvhotizbepi.com
 .cp.5jjx.net
 .cp.7y7.com
@@ -33802,6 +33821,7 @@ zzz.clickbank.net
 .croissed.info
 .cromo.name
 .crookedcareers.com
+.crorop.com
 .cross-system.com
 .crossboardmobile.com
 .crosschannel.com
@@ -42411,6 +42431,7 @@ zzz.clickbank.net
 .fuxintech.com
 .fuxoasim.link
 .fuxunb.com
+.fuyangno1.top
 .fuycai.com
 .fuyigo.top
 .fuyuap.xyz
@@ -42589,6 +42610,7 @@ zzz.clickbank.net
 .g1f5.com
 .g1globo.comb4.info
 .g1globosaude.com
+.g1kb9u.xyz
 .g1mm3d.cn
 .g1thub.com
 .g2.ousns.net
@@ -44807,6 +44829,7 @@ zzz.clickbank.net
 .gwdqp.com
 .gweini.com
 .gwizzads.net
+.gwmeinq.cn
 .gwoyrhpjeloo.com
 .gwp.xiaojukeji.com
 .gwqtum.philips.de
@@ -45420,6 +45443,7 @@ zzz.clickbank.net
 .head3high.com
 .headbidder.net
 .headedtamhemp.com
+.headerbiddr.net
 .headerlift.com
 .headlinemoment.com
 .headlinesnetwork.com
@@ -46144,6 +46168,7 @@ zzz.clickbank.net
 .hnol.net
 .hnpjshop.com
 .hnpvnnhzazkl.com
+.hnpxsm.com.cn
 .hnqhdnryukqko.com
 .hnruisheng.cn
 .hnsykly.cn
@@ -46156,6 +46181,7 @@ zzz.clickbank.net
 .hnxinkejg.com
 .hnxxjn.com
 .hnyiche3.com
+.hnyishidengbao.com
 .hnylb8.cn
 .hnyny.com
 .hnyoufan.com
@@ -47338,6 +47364,7 @@ zzz.clickbank.net
 .ifacelog.iqiyi.com
 .ifactz.com
 .ifc58.com
+.ifcedu.cn
 .ifddigital.com
 .ifeib.com
 .ifengad.3g.ifeng.com
@@ -48969,6 +48996,7 @@ zzz.clickbank.net
 .ish.tumedia.no
 .isharecloud.com
 .isharemetric.rediff.com
+.ishdjvedvls.xyz
 .ishinomakicatering.web.fc2.com
 .ishop789.com
 .ishowbg.com
@@ -49047,6 +49075,7 @@ zzz.clickbank.net
 .itchimpish.com
 .itchingadore.com
 .itchingcrystalfemales.com
+.itchynicerfootage.com
 .itcoder.top
 .itdise.info
 .itechwall.com
@@ -49777,6 +49806,7 @@ zzz.clickbank.net
 .jiudianxing.com
 .jiuduad.com
 .jiuhui878.com
+.jiujiinc.top
 .jiujiushishi.com
 .jiuku.cc
 .jiulx.com
@@ -53069,6 +53099,7 @@ zzz.clickbank.net
 .llk.dlingtalk.cn
 .llladiez.click
 .llladiez.org
+.llnjzvwefma.com
 .llnw.net
 .lloenerginqu.info
 .llog.pl
@@ -54772,6 +54803,7 @@ zzz.clickbank.net
 .m4ymh0220.tech
 .m4ztka.cn
 .m5.apk.67mo.com
+.m5xy0v.cn
 .m62rtkpf.de
 .m652a.cn
 .m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -61885,6 +61917,7 @@ zzz.clickbank.net
 .olimpbanners.info
 .olineman.pro
 .olioeroli.it
+.olive.ergeapp.com
 .olivedinflats.space
 .olivka.biz
 .olizyr.com
@@ -62828,6 +62861,7 @@ zzz.clickbank.net
 .outtunova.com
 .outweb.nudt.edu.cn
 .outwitch.com
+.ouvqfefauelr.xyz
 .ouxutong.com
 .ouzoadru.net
 .ov.yahoo.co.jp
@@ -65085,6 +65119,7 @@ zzz.clickbank.net
 .podwonclarity.com
 .poemsdeucewee.com
 .poemsproduced.com
+.poenem.com
 .poetryhonourable.com
 .poeupvcvruuizk.com
 .pofang.com
@@ -69270,6 +69305,7 @@ zzz.clickbank.net
 .rockynoderearrange.com
 .rockyou.net
 .rocli.ru
+.rocm0c.site
 .rodeopolice.com
 .rodirola.com
 .rodo.agora.pl
@@ -69829,6 +69865,7 @@ zzz.clickbank.net
 .ryhastille.info
 .ryios.com
 .ryke4peep.com
+.rylcbwg.cn
 .ryllae.com
 .ryminos.com
 .rynilwnu.xyz
@@ -83739,6 +83776,7 @@ zzz.clickbank.net
 .viewhdvideos.com
 .viewrtb.com
 .views.cancan.ro
+.views.romaniatv.net
 .viewscout.com
 .viewstracker.com
 .viewtools.com
@@ -85278,6 +85316,7 @@ zzz.clickbank.net
 .weixinhuoyuan.com
 .weixinvip.ren
 .weixinxx.com
+.weixisiwang.com
 .weiyajz.cn
 .weizhenwx.com
 .weiziqiang.top
@@ -86029,6 +86068,7 @@ zzz.clickbank.net
 .wonderpush.com
 .wondoads.de
 .wongds.top
+.woniu1314520.vip
 .wonoddgiris.com
 .wonwg.com
 .wooboo.com.cn
@@ -87681,6 +87721,7 @@ zzz.clickbank.net
 .xiaoshuoyun.cn
 .xiaotaowangluo.com
 .xiaoxiangmovie.com
+.xiaoxiaoyd.cn
 .xiaoyang.mobi
 .xiaoyida.com
 .xiaoyuanzuqiu.cn
@@ -87711,6 +87752,7 @@ zzz.clickbank.net
 .xihuangdushu.com
 .xihuashuale.com
 .xihucio.ru
+.xiituvt.top
 .xijgedjgg5f55.com
 .xiji-express.com
 .xiji.de
@@ -88852,6 +88894,7 @@ zzz.clickbank.net
 .yitai001.com
 .yitaopt.com
 .yitiaoyu.top
+.yitongfang.com
 .yituo-patibao.cn
 .yituopatibao.cn
 .yiudy.com
@@ -88883,6 +88926,7 @@ zzz.clickbank.net
 .yjunzi.com
 .yjuqi.top
 .yjvfuzdr.pw
+.yjwl.ltd
 .yjxmijncfaiag.xyz
 .yjxqy.com
 .yjxssk.apartments.com

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-04 02:09:19
-# HOST: 19
-# HOST-SUFFIX: 33952
+# UPDATED: 2021-11-05 02:09:02
+# HOST: 20
+# HOST-SUFFIX: 33963
 # USER-AGENT: 48
 # HOST-KEYWORD: 41
 # IP-CIDR: 129
 # IP6-CIDR: 4
-# TOTAL: 34193
+# TOTAL: 34205
 HOST,api-p.videomarket.jp,Global
 HOST,apip.videomarket.jp,Global
 HOST,blizzard.nefficient.co.kr,Global
@@ -18,6 +18,7 @@ HOST,clubhouse.pubnubapi.com,Global
 HOST,deutschewelle.h-cdn.com,Global
 HOST,deutschewelle.hcdn.com,Global
 HOST,elib.maruzen.co.jp,Global
+HOST,faronics.kayako.com,Global
 HOST,g.cn,Global
 HOST,hpstore.corpmerchandise.com,Global
 HOST,i.jeded.com,Global
@@ -7289,6 +7290,7 @@ HOST-SUFFIX,charticulator.com,Global
 HOST-SUFFIX,chartis,Global
 HOST-SUFFIX,chase,Global
 HOST-SUFFIX,chase.com,Global
+HOST-SUFFIX,chatango.com,Global
 HOST-SUFFIX,chaterbate.com,Global
 HOST-SUFFIX,chatnook.com,Global
 HOST-SUFFIX,chatr,Global
@@ -8870,6 +8872,9 @@ HOST-SUFFIX,dedelu.com,Global
 HOST-SUFFIX,deepcoin.vip,Global
 HOST-SUFFIX,deepdiscount.com,Global
 HOST-SUFFIX,deeper.com,Global
+HOST-SUFFIX,deepfreeze.com,Global
+HOST-SUFFIX,deepfreeze.net,Global
+HOST-SUFFIX,deepfreeze.tech,Global
 HOST-SUFFIX,deepl.com,Global
 HOST-SUFFIX,deepmind.com,Global
 HOST-SUFFIX,deepthroatfrenzy.com,Global
@@ -11009,6 +11014,10 @@ HOST-SUFFIX,farfetchcontents.com,Global
 HOST-SUFFIX,farm.tanosecure.com.tw,Global
 HOST-SUFFIX,farmatotal.cl,Global
 HOST-SUFFIX,farmers,Global
+HOST-SUFFIX,faronics.com,Global
+HOST-SUFFIX,faronics.tech,Global
+HOST-SUFFIX,faronicslabs.com,Global
+HOST-SUFFIX,faronicswise.com,Global
 HOST-SUFFIX,farsipod101.com,Global
 HOST-SUFFIX,fartit.com,Global
 HOST-SUFFIX,farumradio.com,Global
@@ -14987,6 +14996,7 @@ HOST-SUFFIX,internepedia.tk,Global
 HOST-SUFFIX,internet.org,Global
 HOST-SUFFIX,internetarchive.org,Global
 HOST-SUFFIX,internetdefenseleague.org,Global
+HOST-SUFFIX,internetdownloadmanager.com,Global
 HOST-SUFFIX,internetexplorer.co,Global
 HOST-SUFFIX,internetexplorer.com,Global
 HOST-SUFFIX,internetfreedom.org,Global
@@ -22180,6 +22190,7 @@ HOST-SUFFIX,regionalwifi.net,Global
 HOST-SUFFIX,regiongold.com,Global
 HOST-SUFFIX,register.moex.gov.tw,Global
 HOST-SUFFIX,registerhulu.com,Global
+HOST-SUFFIX,registeridm.com,Global
 HOST-SUFFIX,rehabforum.org,Global
 HOST-SUFFIX,reimu.net,Global
 HOST-SUFFIX,reindeervpn.com,Global
@@ -25463,6 +25474,7 @@ HOST-SUFFIX,tomorrowland.com,Global
 HOST-SUFFIX,tomp2p.net,Global
 HOST-SUFFIX,tomshardware.com,Global
 HOST-SUFFIX,tonalla.com,Global
+HOST-SUFFIX,tonec.com,Global
 HOST-SUFFIX,tongil.or.kr,Global
 HOST-SUFFIX,tonni.cms4people.de,Global
 HOST-SUFFIX,tono-oka.jp,Global

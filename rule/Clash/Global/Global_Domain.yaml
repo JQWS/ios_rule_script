@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2021-11-04 02:09:21
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 33952
+# UPDATED: 2021-11-05 02:09:03
+# DOMAIN: 20
+# DOMAIN-SUFFIX: 33963
 # DOMAIN-KEYWORD: 41
 # IP-CIDR: 129
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 34146
+# TOTAL: 34158
 payload:
   - 'api-p.videomarket.jp'
   - 'apip.videomarket.jp'
@@ -19,6 +19,7 @@ payload:
   - 'deutschewelle.h-cdn.com'
   - 'deutschewelle.hcdn.com'
   - 'elib.maruzen.co.jp'
+  - 'faronics.kayako.com'
   - 'g.cn'
   - 'hpstore.corpmerchandise.com'
   - 'i.jeded.com'
@@ -7290,6 +7291,7 @@ payload:
   - '+.chartis'
   - '+.chase'
   - '+.chase.com'
+  - '+.chatango.com'
   - '+.chaterbate.com'
   - '+.chatnook.com'
   - '+.chatr'
@@ -8871,6 +8873,9 @@ payload:
   - '+.deepcoin.vip'
   - '+.deepdiscount.com'
   - '+.deeper.com'
+  - '+.deepfreeze.com'
+  - '+.deepfreeze.net'
+  - '+.deepfreeze.tech'
   - '+.deepl.com'
   - '+.deepmind.com'
   - '+.deepthroatfrenzy.com'
@@ -11010,6 +11015,10 @@ payload:
   - '+.farm.tanosecure.com.tw'
   - '+.farmatotal.cl'
   - '+.farmers'
+  - '+.faronics.com'
+  - '+.faronics.tech'
+  - '+.faronicslabs.com'
+  - '+.faronicswise.com'
   - '+.farsipod101.com'
   - '+.fartit.com'
   - '+.farumradio.com'
@@ -14988,6 +14997,7 @@ payload:
   - '+.internet.org'
   - '+.internetarchive.org'
   - '+.internetdefenseleague.org'
+  - '+.internetdownloadmanager.com'
   - '+.internetexplorer.co'
   - '+.internetexplorer.com'
   - '+.internetfreedom.org'
@@ -22181,6 +22191,7 @@ payload:
   - '+.regiongold.com'
   - '+.register.moex.gov.tw'
   - '+.registerhulu.com'
+  - '+.registeridm.com'
   - '+.rehabforum.org'
   - '+.reimu.net'
   - '+.reindeervpn.com'
@@ -25464,6 +25475,7 @@ payload:
   - '+.tomp2p.net'
   - '+.tomshardware.com'
   - '+.tonalla.com'
+  - '+.tonec.com'
   - '+.tongil.or.kr'
   - '+.tonni.cms4people.de'
   - '+.tono-oka.jp'
